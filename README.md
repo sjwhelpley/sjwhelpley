@@ -1,6 +1,8 @@
 ## Hi there, I'm Sam 👋
-### I'm a rising senior at the University of Pittsburgh & an aspiring frontend developer.
-I am studying Information Science, Computer Science, and Digital Media. For more about my experiences and projects, visit [samwhelpley.me](http://samwhelpley.me).
+### I'm a rising senior at the University of Pittsburgh & aspiring frontend developer.
+I am studying Information Science, Computer Science, and Digital Media. 
+
+For more about my experiences and projects, visit [samwhelpley.me](http://samwhelpley.me).
 
 
 <!--

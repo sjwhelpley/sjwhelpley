@@ -4,7 +4,7 @@ Pronouns: she/her
 
 I am studying Information Science, Computer Science, and Digital Media. 
 
-Incoming Web Application and Analytics Developer at VISIMO(http://visimo.ai/) in Pittsburgh, PA.
+Incoming Web Application and Analytics Developer at [VISIMO](http://visimo.ai/) in Pittsburgh, PA.
 
 For more about my experiences and projects, visit [samwhelpley.me](http://samwhelpley.me).
 

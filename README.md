@@ -1,10 +1,10 @@
 ## Hi there, I'm Sam 👋
-### I'm a senior at the University of Pittsburgh & web developer.
+### I'm a graduate of the University of Pittsburgh & web developer at [VISIMO](http://visimo.ai/).
 Pronouns: she/her
 
-I am studying Information Science, Computer Science, and Digital Media. 
+I studied Information Science, Computer Science, and Digital Media. 
 
-Incoming Web Application and Analytics Developer at [VISIMO](http://visimo.ai/) in Pittsburgh, PA.
+I currently work with React and Django. My focus is in frontend development and UI/UX design, but am growing my backend skills.
 
 For more about my experiences and projects, visit [samwhelpley.me](http://samwhelpley.me).
 

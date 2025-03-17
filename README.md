@@ -1,12 +1,11 @@
 ## Hi there, I'm Sam 👋
-### I'm a graduate of the University of Pittsburgh & software developer at [VISIMO](http://visimo.ai/).
-Pronouns: she/her
+### Front End Engineer specializing in React
 
-I studied Information Science, Computer Science, and Digital Media. 
+Previously a software developer at [VISIMO](http://visimo.ai/).
 
-I currently work with React/Redux. My focus is in frontend development and UI/UX design, but am growing my backend skills.
+Graduate of the University of Pittsburgh, where I studied Computer and Information Science. 
 
-For more about my experiences and projects, visit [samwhelpley.me](http://samwhelpley.me).
+For my resume and more about my experiences and projects, visit [samwhelpley.me](http://samwhelpley.me).
 
 
 <!--
